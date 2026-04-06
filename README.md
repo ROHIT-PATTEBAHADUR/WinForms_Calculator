@@ -14,6 +14,9 @@ C#
 Windows Forms (.NET)  
 Visual Studio  
 
+<img width="390" height="618" alt="Screenshot 2026-04-06 220018" src="https://github.com/user-attachments/assets/f81cb225-82dc-43ee-9583-7a2173ba0570" />  
+
+
 
 Example:
 

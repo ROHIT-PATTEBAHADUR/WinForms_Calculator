@@ -1,22 +1,20 @@
 🧮 Windows Forms Calculator
 
-A simple and user-friendly calculator application built using C# and Windows Forms in Visual Studio. This project performs basic arithmetic operations with a clean graphical interface.
+A simple and user-friendly calculator application built using C# and Windows Forms in Visual Studio. This project performs basic arithmetic operations with a clean graphical interface.  
 
-🚀 Features
-➕ Addition
-➖ Subtraction
-✖️ Multiplication
-➗ Division
-🔘 Decimal support
-🧹 Clear (Reset) functionality
-🖥️ Simple and intuitive UI
-🛠️ Technologies Used
-C#
-Windows Forms (.NET)
-Visual Studio
-📸 Screenshot
+🚀 Features  
+➕ Addition  
+➖ Subtraction  
+✖️ Multiplication  
+➗ Division  
+🧹 Clear (Reset) functionality  
+🖥️ Simple and intuitive UI  
+🛠️ Technologies Used  
+C#  
+Windows Forms (.NET)  
+Visual Studio  
 
-(Add your project screenshot here)
+
 Example:
 
 
